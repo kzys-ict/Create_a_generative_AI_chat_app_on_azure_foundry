@@ -1,7 +1,8 @@
 # Azure Generative AI Chat
 
 A simple chat app powered by Azure AI Foundry with FastAPI backend.
-https://raw.githubusercontent.com/kzys-ict/Create_a_generative_AI_chat_app_on_azure_foundry/refs/heads/master/ui/chat-ui.png
+<img width="1900" height="867" alt="chat-ui" src="https://github.com/user-attachments/assets/0acc940e-c341-4fd4-9d00-59b238e5a45a" />
+
 
 
 ## Setup
